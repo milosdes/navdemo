@@ -54,3 +54,8 @@ export const routes = [
         route: '/dessert',
     },
 ];
+
+//To make Nextjs happy
+export default function route() {
+    return <></>;
+}
