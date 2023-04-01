@@ -57,5 +57,5 @@ export const routes = [
 
 //To make Nextjs happy
 export default function route() {
-    return <></>;
+    return <div></div>;
 }
